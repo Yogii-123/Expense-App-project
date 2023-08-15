@@ -1,0 +1,37 @@
+.over{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-left: 40px;
+
+
+}
+.para{
+    font-weight: bolder;
+    color: white;
+  }
+  .select{
+    background-color: whitesmoke;
+    /* font-weight: bolder; */
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+    border: none;
+      /* float: right;
+    margin-top:-10px;
+    margin-right: 80px; */
+  }
+  
+  .opt1{
+    font-weight: bolder;
+  }
+  .opt2{
+    font-weight: bolder;
+  }
+  .opt3{
+    font-weight: bolder;
+  }
+  .opt4{
+    font-weight: bolder;
+  }

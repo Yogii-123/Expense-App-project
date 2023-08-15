@@ -1,0 +1,125 @@
+.overallform{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    /* background-color: gray; */
+}
+.btn1{
+    background-color:rgb(5, 5, 71);
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 30px;
+    align-items: center;
+    margin-left:600px;
+    padding: 15px;
+    border-radius: 8px;
+}
+.div1{
+    margin-top: 30px;
+    padding-bottom: 100px;
+}
+.overall{
+    /* align-items: center;
+    justify-items: center; */
+    margin-left:300px;
+    width: 55%;
+    /* background-color:rgba(109, 109, 156, 0.993); */
+    /* background-color: rgb(189, 152, 225); */
+    background-color: #c2b6e0;
+    color: black;
+    border: 2px solid  #c2b6e0;
+     border-radius: 8px;
+     padding:20px;
+}
+.title{
+text-align: left;
+/* margin-left:25px; */
+font-weight: bolder;
+font-size: large;
+}
+.amount{
+    text-align: right;
+    margin-left:360px;
+    font-weight: bolder;
+   font-size: medium;
+}
+.titleinput{
+    /* margin-left:25px; */
+    width: 45%;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+
+}
+.amountinput{
+    /* margin-left:100px; */
+    float: right;
+    /* margin-right:30px; */
+    width:45%;
+    border-radius: 5px;
+    padding: 8px;
+    border: none;
+
+}
+.date{
+    font-weight: bolder;
+    font-size: large;
+   
+
+}
+.dateinput{
+    width: 45%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+ .bt2{
+    margin-left: 460px;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: #240675;
+    color: whitesmoke;
+    padding: 15px;
+    width:100px ;
+    border-radius: 10px;
+    border: none;
+    margin-top: 1px;
+}
+.bt3{
+    float: right;
+    margin-right: 30px;
+    font-weight: bolder;
+    font-size: medium;
+    background-color:#240675;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+
+} 
+.formbtn{
+    align-items: center;
+    justify-items: center;
+    margin-left:300px;
+    width: 55%;
+    background-color: #c2b6e0;
+    color: rgb(207, 164, 164);
+    border: 2px solid  #c2b6e0;
+    height:120px;
+    margin-top: 30px;
+    border-radius:10px;
+    /* padding-bottom:30px; */
+}
+.formbtn1{
+    margin-left: 280px;
+    margin-top:30px;
+    border-radius: 10px;
+    background-color: #26067cec;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: larger;
+    padding: 10px;
+
+
+}
